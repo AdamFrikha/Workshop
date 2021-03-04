@@ -12,7 +12,7 @@
 #include "tek.h"
 
 int main(void)
-{
+{ 
     srand(time(NULL));
     printf("%s\n", get_sentence(rand()));
     return (0);
