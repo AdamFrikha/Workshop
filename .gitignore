@@ -1,0 +1,4 @@
+*.txt
+node_modules
+a.out
+vgcore.*
